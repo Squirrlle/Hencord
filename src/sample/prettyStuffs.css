@@ -1,0 +1,20 @@
+.msg{
+    -fx-border-style: solid;
+    -fx-border-color: #005b2c;
+    -fx-border-width: 4px;
+    -fx-padding: 20px;
+    -fx-background-color: antiquewhite;
+}
+
+.usr{
+    -fx-border-style: solid;
+    -fx-border-color: #005b2c;
+    -fx-border-width: 4px;
+    -fx-padding: 20px;
+    -fx-background-color: azure;
+}
+
+.text-field{
+    -fx-background-color: green;
+    -fx-text-fill: black;
+}
